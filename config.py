@@ -27,13 +27,13 @@ MAXKB_CONFIG = {
     
     # ======【知识库配置】=====
     # 知识库ID（从知识库详情页URL获取）
-    "knowledge_base_id": "019ba290-e38c-7652-a42b-e010a3579248",
+    "knowledge_base_id": "019be029-d483-7032-a20a-69b36bd52354",
     
     # ======【应用配置】=====
     "application": {
-        "id": "019ba291-05d8-7fa0-ab34-e0dd256a7aca",  # 应用ID
+        "id": "019be02b-8ab3-71c0-b4f6-ba029e888e55",  # 应用ID
         "name": "听涛",
-        "api_key": "agent-51ebf92b169cdc8b923092833fe5be0f"  # 应用API密钥
+        "api_key": "agent-56492d27ee1fa48c0f95543db12d215b"  # 应用API密钥
     },
 
     
